@@ -46,7 +46,7 @@
   "fn-sshd-config": {
     "display_name": "sshd-config",
     "desc": "设置 root 用户密码，修改 SSHD 配置，卸载时还原配置。",
-    "labels": "SSH"
+    "labels": "SSH",
     "version": "1.0.0",
     "author": "RROrg",
     "author_url": "https://github.com/RROrg/fn-apps",
