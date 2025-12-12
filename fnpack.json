@@ -66,7 +66,14 @@
     "size": "0.0"
   },
   "fn-kodi": {
+    "display_name": "kodi",
+    "desc": "Kodi 是一个免费且开源的媒体播放器软件，用于播放视频、音频和图像。",
+    "labels": "影音",
     "version": "1.0.0",
+    "author": "RROrg",
+    "author_url": "https://github.com/RROrg/fn-apps",
+    "bug_report_url": "https://github.com/RROrg/fn-apps/FnDepot/issues",
+    "install_type": "系统空间",
     "size": "0.0"
   }
 }
