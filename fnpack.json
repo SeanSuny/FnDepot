@@ -75,5 +75,9 @@
     "bug_report_url": "https://github.com/RROrg/fn-apps/FnDepot/issues",
     "install_type": "系统空间",
     "size": "0.0"
+  },
+  "fn-codeserver": {
+    "version": "1.0.0",
+    "size": "0.0"
   }
 }
