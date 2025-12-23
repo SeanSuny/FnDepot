@@ -3,7 +3,7 @@
     "display_name": "msedge",
     "desc": "Microsoft Edge 是一款由 Microsoft 开发、基于 Chromium 的跨平台网页浏览器。",
     "labels": "浏览器",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "RROrg",
     "author_url": "https://github.com/RROrg/fn-apps",
     "bug_report_url": "https://github.com/RROrg/fn-apps/FnDepot/issues",
@@ -36,7 +36,7 @@
     "display_name": "任务计划",
     "desc": "轻量级的任务计划应用，支持定时和条件触发任务执行。",
     "labels": "任务计划",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "author": "RROrg",
     "author_url": "https://github.com/RROrg/fn-apps",
     "bug_report_url": "https://github.com/RROrg/fn-apps/FnDepot/issues",
@@ -47,7 +47,7 @@
     "display_name": "sshd-config",
     "desc": "设置 root 用户密码，修改 SSHD 配置，卸载时还原配置。",
     "labels": "SSH",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "RROrg",
     "author_url": "https://github.com/RROrg/fn-apps",
     "bug_report_url": "https://github.com/RROrg/fn-apps/FnDepot/issues",
@@ -58,7 +58,7 @@
     "display_name": "terminal",
     "desc": "terminal (ttyd + tmux)",
     "labels": "终端",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": "RROrg",
     "author_url": "https://github.com/RROrg/fn-apps",
     "bug_report_url": "https://github.com/RROrg/fn-apps/FnDepot/issues",
@@ -77,7 +77,7 @@
     "size": "0.0"
   },
   "fn-codeserver": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "size": "0.0"
   }
 }
